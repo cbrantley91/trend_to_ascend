@@ -1,6 +1,23 @@
 # trend-to-ascend
 
+This project is a pretty simple game with the intention of putting some various Node.js practices to work.
+
+Technologies/APIs integrated/used:
+- Yeoman
+- MongoDB
+- Express
+- Angular
+- Node.js
+
+Things to integrate/use:
+- Docker
+- Some SaaS (Heroku? Amazon?)
+- WebGL
+- Three.js?
+
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 4.1.0.
+
+
 
 ## Getting Started
 
