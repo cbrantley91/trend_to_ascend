@@ -9,8 +9,10 @@ Technologies/APIs integrated/used:
 - Angular
 - Node.js
 
-Things to integrate/use:
+Technologies actively integrating:
 - Docker
+
+Things to integrate/use:
 - Some SaaS (Heroku? Amazon?)
 - WebGL
 - Three.js?
